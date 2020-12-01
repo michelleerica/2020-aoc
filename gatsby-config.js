@@ -19,4 +19,6 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/2020-aoc",
+
 }
